@@ -83,8 +83,24 @@ Your report should contain:
 - **High Noise:**
   <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/2228ebce-4693-45cd-8b84-e9e4b5e21a0e" />
 
-- **Summary Table** for each simulation:
-    <img width="1174" height="1280" alt="image" src="https://github.com/user-attachments/assets/9886bb59-a9d4-44c2-836b-42b6efd5fa2d" />
-    <img width="1280" height="1202" alt="image" src="https://github.com/user-attachments/assets/bdbaea4b-b33e-444b-a56e-a28a65d13e27" />
+  ## Block Diagram
+
+### Attenuation-Limited Fiber Length 2.5GB
+
+<img width="714" height="377" alt="image" src="https://github.com/user-attachments/assets/8d891e89-9bcb-4909-bfdf-33b63c1a40ec" />
+
+### Attenuation-Limited Fiber Length 10GB
+
+<img width="708" height="374" alt="image" src="https://github.com/user-attachments/assets/76ae60f1-b3c1-43c2-8fd1-da9feeb9c21e" />
+
+
+
+
+## Tabulation:
+
+<img width="1174" height="1280" alt="image" src="https://github.com/user-attachments/assets/9886bb59-a9d4-44c2-836b-42b6efd5fa2d" />
+
+<img width="1280" height="1202" alt="image" src="https://github.com/user-attachments/assets/bdbaea4b-b33e-444b-a56e-a28a65d13e27" />
+
 ## Result:
 thus the experiment was succesfully completed and output is verified
